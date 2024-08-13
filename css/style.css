@@ -240,7 +240,7 @@ img {
 }
 
 .footer__copyright {
-  margin-bottom: 17px;
+  margin-bottom: 16px;
 }
 
 .footer_description, .footer__developer {
@@ -249,5 +249,5 @@ img {
 
 .footer__social {
   gap: 15px;
-  padding: 19px 0 3px 3px;
+  padding: 16px 0 3px 3px;
 }
